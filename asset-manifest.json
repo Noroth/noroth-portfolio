@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/noroth-portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/noroth-portfolio/static/js/main.a7811c64.chunk.js",
+    "main.js.map": "/noroth-portfolio/static/js/main.a7811c64.chunk.js.map",
+    "runtime-main.js": "/noroth-portfolio/static/js/runtime-main.7c499bd1.js",
+    "runtime-main.js.map": "/noroth-portfolio/static/js/runtime-main.7c499bd1.js.map",
+    "static/js/2.3cb506fc.chunk.js": "/noroth-portfolio/static/js/2.3cb506fc.chunk.js",
+    "static/js/2.3cb506fc.chunk.js.map": "/noroth-portfolio/static/js/2.3cb506fc.chunk.js.map",
+    "static/js/3.3cd346a0.chunk.js": "/noroth-portfolio/static/js/3.3cd346a0.chunk.js",
+    "static/js/3.3cd346a0.chunk.js.map": "/noroth-portfolio/static/js/3.3cd346a0.chunk.js.map",
+    "index.html": "/noroth-portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/noroth-portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3cb506fc.chunk.js.LICENSE.txt": "/noroth-portfolio/static/js/2.3cb506fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/noroth-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c499bd1.js",
+    "static/js/2.3cb506fc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a7811c64.chunk.js"
+  ]
+}
